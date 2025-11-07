@@ -1,4 +1,6 @@
 a=900
 b=200
-sum=a+b
+c=300
+d=400
+sum=a+b+c+d
 print(sum)
